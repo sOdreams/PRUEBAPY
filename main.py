@@ -1,1 +1,3 @@
-print("hello asdas d")
+x = 12
+x = str(x)
+print(x)
